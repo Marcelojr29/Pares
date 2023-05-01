@@ -10,7 +10,7 @@ int main() {
     int quantidadeImpares = 0;
     
     // Loop para ler os números
-    for (i = 1; i <= 10; i++) {
+    for (i = 1; i <= 1000; i++) {
         int numero;
         scanf(" %d", &numero);
         

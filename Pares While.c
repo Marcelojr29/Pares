@@ -10,7 +10,7 @@ int main() {
     int i = 1;
     
     // Loop para ler os números
-    while (i <= 10) {
+    while (i <= 1000) {
         int numero;
         scanf(" %d", &numero);
         

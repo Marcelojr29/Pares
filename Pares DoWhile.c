@@ -24,7 +24,7 @@ int main() {
         }
 
         i++;
-    } while (i < 10);
+    } while (i < 1000);
 
     // Calcula a média dos números ímpares
     float mediaImpares = 0;
